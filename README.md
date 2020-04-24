@@ -17,10 +17,10 @@
 
 * __Estrutura de Contas__
  
- Por ser um site de notícias é necessário a alimentação do site com posts e artigos, portanto é implementado um sistema de editores que terão total liberdade para publicar matérias, sugiro que cada centro acadêmico apresentasse um editor para publicar as notícias de cada curso.
+  Por ser um site de notícias é necessário a alimentação do site com posts e artigos, portanto é implementado um sistema de editores que  terão total liberdade para publicar matérias, sugiro que cada centro acadêmico apresentasse um editor para publicar as notícias de cada curso.
  
 * __Autossuficiente__
 
-  Mesmo desenvolvido por razões didáticas desenvolver um bom site não é barato, conseguir um _Host_ que consiga suportar os acessos dos estudantes e ter acesso as ferramentas de desenvolvimento são custos a serem pensados. Pensando um pouco nesse problema pesquisei um pouco sobre servisos de _Advertising_, implementar no site o sistema do Google Adsense para gerar certo lucro por visualização de propaganda que será usado para manter a manutenção e estabilidade do site. Claro que muita gente não gosta de sites com propagandas mas acredito que se implementadas de forma certa pode manter a elegancia do site.
+  Mesmo desenvolvido por razões didáticas desenvolver um bom site não é barato, conseguir um _Host_ que consiga suportar os acessos dos estudantes e ter acesso as ferramentas de desenvolvimento são custos a serem pensados. Pensando um pouco nesse problema pesquisei um pouco sobre servisos de _*Advertising*_, implementar no site o sistema do Google Adsense para gerar certo lucro por visualização de propaganda que será usado para manter a manutenção e estabilidade do site. Claro que muita gente não gosta de sites com propagandas mas acredito que se implementadas de forma certa pode manter a elegancia do site.
   Para saber mais sobre o sistema de _AdSense_ da Google [clique aqui](https://www.google.com/intl/pt-BR_br/adsense/start/).
   
